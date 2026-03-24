@@ -1,14 +1,15 @@
 /outfittrServer/.env
+/.updated
 /tmp/
 /spool/
-/run/
 /snap/
 /opt/
 /mail/
 /log/
-/lock/
 /local/
 /lib/
 /crash/
 /cache/
 /backups/
+/lock/
+/run/
